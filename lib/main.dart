@@ -13,8 +13,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Personal Expanses',
       theme: ThemeData(
-          primarySwatch: Colors.purple,
-          accentColor: Colors.amber,
+          primarySwatch: Colors.blue,
+          accentColor: Colors.orange,
           textTheme: ThemeData.light().textTheme.copyWith(
                 title: TextStyle(
                     fontFamily: 'OpenSans',
