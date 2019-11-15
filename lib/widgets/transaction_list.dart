@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:personal_expenses/models/transaction.dart';
 import 'package:personal_expenses/widgets/transaction_item.dart';
+import 'package:personal_expenses/models/transaction.dart';
 
 class TransactionList extends StatelessWidget {
   final List<Transaction> transactions;
